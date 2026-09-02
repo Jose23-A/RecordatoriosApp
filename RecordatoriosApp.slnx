@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RecordatoriosApp.Aplicacion/RecordatoriosApp.Aplicacion.csproj" />
+  <Project Path="RecordatoriosApp.Dominio/RecordatoriosApp.Dominio.csproj" />
+  <Project Path="RecordatoriosApp.Infraestructura/RecordatoriosApp.Infraestructura.csproj" />
+  <Project Path="RecordatoriosApp/RecordatoriosApp,API.csproj" />
+</Solution>
